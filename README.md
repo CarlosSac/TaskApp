@@ -4,7 +4,7 @@ Submitted by: **Carlos Sac**
 
 **Task App** is an app that help you keep track of your tasks 
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
